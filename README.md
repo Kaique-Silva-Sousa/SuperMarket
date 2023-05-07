@@ -20,5 +20,7 @@ como no exemplo : 2 produtos de ID 1, 1 de ID 2 e 1 de ID 3
 Projeto apenas para relembrar alguns conceitos, está bem cru, posteriormente devo atualizar algo.
 
 
+PRIMEIRO PASSO : npm i
+
 para usar basta criar um arquivo .env 
 criar a variavel " STRING_CONNECTION " e colocar o link do seu banco de dados mongoDB
