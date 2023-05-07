@@ -2,7 +2,6 @@ API SIMULADOR DE MERCADO
 
 Simulador de um "Mercado" onde voce pode fazer as compras e adicionar produtos.
 
-PRIMEIRO PASSO : npm i
 
 usando a rota /product/addProdut em POST voce envia os dados :
 {
